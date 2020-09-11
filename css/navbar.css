@@ -15,7 +15,7 @@
                 padding: 16px;
                 display: inline-block;
             }
-            .navbar li:hover {
+            .navbar li:hover:not(#name) {
                 background-color: red;
             }
             .dropdown-content li {
@@ -32,4 +32,8 @@
             }
             .navbar .active{
                 background-color: white
+            }
+
+            .name{
+                float: right;
             }
