@@ -37,3 +37,30 @@
             .name{
                 float: right;
             }
+
+            body {
+                background-color: black;
+                color: white;
+            }
+            h1 {
+            background-color: black;
+            color:#A6A5A5;
+            }
+            tr {
+            background-color: white;
+            }
+            li {
+                background-color: #111010;
+            }
+            td {
+            color:black;
+            }
+            .img {
+            background-color:black; 
+            }
+            .indextext {
+            background-color:black; 
+            }
+            p {
+            color:white;
+            }
