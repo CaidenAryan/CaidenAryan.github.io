@@ -64,3 +64,35 @@
             p {
             color:white;
             }
+
+            #container{
+            position: absolute;
+            left: 0px;
+            right: 0ps;
+            top: 90px;
+            bottom: 0px;
+            background-color: red;
+            }
+            
+            #left_pane{
+            background-color: green;
+            height: 100%;
+            width: 56%;
+            float: left;
+            }
+
+            #right_pane{
+            background-color: blue;
+            height: 100%;
+            width: 44%;
+            float: left;
+            }
+
+            #story_text{
+            background-color: yellow;
+            height: 80%;
+            }
+
+            #button_choices{
+            
+            }
